@@ -8,7 +8,7 @@
 - 💬 Ask me about Flutter or any tech Related Stuff
 - 📫 How to reach me: 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend approx 4 to 5 hours on YouTube 
+- ⚡ Fun fact: I spend approx 4 to 5 hours on YouTube per day
 
 
 [![Twitter: amitgeed08](https://img.shields.io/twitter/follow/amit_geed_0808?style=social)](https://twitter.com/amit_geed_0808)
