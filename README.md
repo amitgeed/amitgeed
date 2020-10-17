@@ -1,7 +1,7 @@
 ### Hello, I'm Amit Geed 👋
 
 
-- 🔭 I’m currently working on World of Professionals, Philippines
+- 🔭 I’m currently working in World of Professionals, Philippines
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Learning Django
