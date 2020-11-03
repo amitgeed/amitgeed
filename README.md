@@ -14,7 +14,9 @@
 [![Twitter: amitgeed08](https://img.shields.io/twitter/follow/amit_geed_0808?style=social)](https://twitter.com/amit_geed_0808)
 [![Linkedin: amitgeed08](https://img.shields.io/badge/-amit_geed_08-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amit-geed-08/)](https://www.linkedin.com/in/amit-geed-08/)
 [![GitHub amitgeed](https://img.shields.io/github/followers/amitgeed?label=follow&style=social)](https://github.com/amitgeed)
-
+<a href="https://dev.to/amitgeed">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Amit Geed's DEV Profile" height="30" width="30">
+</a>
 
 **Languages and Tools:**  
 
@@ -31,6 +33,7 @@
 <a href="https://github.com/amitgeed">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitgeed&show_icons=true&theme=light&line_height=27" alt="My stats"/>
 </a>
+
 
 <!--
 <a href="https://github.com/iampawan/FlutterExampleApps">
