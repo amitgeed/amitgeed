@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with Learning Django
 - 💬 Ask me about Flutter or any tech Related Stuff
 - 📫 How to reach me: Find contact details below.
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I spend approx 4 to 5 hours on YouTube per day
 
 
