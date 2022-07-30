@@ -2,9 +2,7 @@
 
 
 - 🔭 I’m currently working as a Flutter Developer
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with Learning Django
+- 🌱 I’m currently learning Node JS
 - 💬 Ask me about Flutter or any tech Related Stuff
 - 📫 How to reach me: Find contact details below.
 - 😄 Pronouns: He/Him
